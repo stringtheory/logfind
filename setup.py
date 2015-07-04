@@ -8,8 +8,8 @@ config = {
                     'and return only the names of files that contain strings passed in'
                     'as arguements'),
     'author': 'Diane Wellman',
-    'url': 'https://github.com/stringtheory/name',
-    'download_url': 'https://github.com/stringtheory/name',
+    'url': 'https://github.com/stringtheory/logfind',
+    'download_url': 'https://github.com/stringtheory/logfind',
     'author_email': 'dk8654@yahoo.com',
     'version': '0.1',
     'install_requires': ['nose'],
